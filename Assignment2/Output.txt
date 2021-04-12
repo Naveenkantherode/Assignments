@@ -1,0 +1,11 @@
+FAQ page 
+  Code:		
+  	https://github.com/Naveenkantherode/Assignments.git
+  output:
+	https://naveenkantherode.github.io/Assignments/Assignment2/FAQ.html
+Table of Content
+  code:
+	https://github.com/Naveenkantherode/Assignments.git
+
+Output:
+  https://naveenkantherode.github.io/Assignments/Assignment2/TOC/TOC.html
