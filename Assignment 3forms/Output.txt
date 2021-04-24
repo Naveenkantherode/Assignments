@@ -1,0 +1,5 @@
+FAQ page 
+  Code:		
+  	https://github.com/Naveenkantherode/Assignments.git
+  output:
+	https://naveenkantherode.github.io/Assignments/Assignment3forms/jobApplication.html
